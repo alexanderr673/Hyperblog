@@ -1,6 +1,6 @@
 Hola buenas tardes mi nombre es alexander nicolas vasquez tengo 28 años
 
-vino en españa en la ciudad de valencia
+vivo en españa en la ciudad de valencia
 
 Estoy estudiando programacion python y ahora estoy haciendo 
 el curso de git y github para seguir con el siguiente curso
